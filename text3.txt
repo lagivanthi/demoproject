@@ -1,1 +1,2 @@
 this is a demo of calculator application
+this calculator do the basic  operation
